@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo Python e Machine Learning
 
-- 👨‍💻 Projetos de Analises de dados: [https://github.com/calebesz/AnaliseSpotfy](https://github.com/calebesz/AnaliseSpotfy)
+- 👨‍💻 Porfólio: [https://github.com/calebesz/PortfolioDados](https://github.com/calebesz/PortfolioDados)
 
 - 📫 Você me acha através do e-mail **calebesousaz@outlook.com**
 
