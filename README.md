@@ -7,7 +7,7 @@
 
 - 📫 Você me acha através do e-mail **calebesousaz@outlook.com**
 
-- 📄 Minhas experiencias estão no LinkedIn [https://www.linkedin.com/in/jos%C3%A9-calebe-sousa-0b672b1ab/](https://www.linkedin.com/in/jos%C3%A9-calebe-sousa-0b672b1ab/)
+- 📄 Minhas experiencias estão no LinkedIn [https://www.linkedin.com/in/jose-calebe-sousa/](https://www.linkedin.com/in/jose-calebe-sousa/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
